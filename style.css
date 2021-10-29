@@ -1,0 +1,207 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	width: 100%;
+	background-image: url("tla/wood-336589_1920.jpg");
+	background-repeat: repeat-y;
+	background-attachment: fixed;
+	background-size: 100%;
+	font-family: 'Lato', sans-serif;
+	margin: 0!important;
+}
+
+.logo
+{
+	width: 100%;
+	height: auto;
+	background-image: url("tla/lumber-84678_1920.jpg");
+	border-bottom: 1px solid #FFC187;
+
+}
+.logo1
+{
+	text-align: center;
+	letter-spacing: 15px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 80px;
+	color: #FFFFFF;
+	width: 100%;
+	height: auto;
+}
+.logo1 
+{text-shadow: -1px 0 black, 0 1px black,1px 0 black, 0 -1px black
+}
+
+.nav
+{
+	color: #FFFFFF;
+	width: 100%;
+	height: auto;
+	padding: 5px;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 40px;
+    background: rgb(244,219,109);
+    background: linear-gradient(90deg, rgba(244,219,109,1) 0%, rgba(186,116,90,1) 50%, rgba(247,234,144,1) 100%); 
+	
+}
+
+.menu
+{
+	width: auto;
+	height: auto;
+	text-align: center;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.container
+{
+	width: 45%;
+	height: auto;
+	text-align: center;
+	font-size: 25px;
+	color: #FFFFFF;
+	background-color: #666666;
+	padding: 17px;
+	border-radius: 7px 7px 7px 7px;
+	border: 1px solid #000000;
+	float: right;
+	margin-right: 15%;
+	margin-top: 30px;
+}
+
+
+.footer
+{
+	width: 100%;
+	height: 22px;
+	text-align: center;
+	color: #FFFFFF;
+	border: 1px solid #000000;
+	position: fixed;
+	bottom: 0;
+	font-size: 20px;
+}
+
+#start
+{
+	width: 160px;
+	height: 40px;
+	display: block;
+	float: left;
+	border-right: 1px dashed #751b1b;
+	border-left: 1px dashed #751b1b;
+}
+
+#start:hover
+{
+	background-color: #DEDB7D;
+}
+#drewno
+{
+	width: 160px;
+	height: 40px;
+	display: block;
+	float: left;
+	border-right: 1px dashed #751b1b;
+	border-left: 1px dashed #751b1b;
+}
+
+#drewno:hover
+{
+	background-color: #DEDB7D;
+}
+#plyta
+{
+	width: 160px;
+	height: 40px;
+	display: block;
+	float: left;
+	border-right: 1px dashed #751b1b;
+	border-left: 1px dashed #751b1b;
+}
+
+#plyta:hover
+{
+	background-color: #DEDB7D;
+}
+#renowacja
+{
+	width: 160px;
+	height: 40px;
+	display: block;
+	float: left;
+	border-right: 1px dashed #751b1b;
+	border-left: 1px dashed #751b1b;
+}
+
+#renowacja:hover
+{
+	background-color: #DEDB7D;
+}
+#galeria
+{
+	width: 160px;
+	height: 40px;
+	display: block;
+	float: left;
+	border-right: 1px dashed #751b1b;
+	border-left: 1px dashed #751b1b;
+}
+
+#galeria:hover
+{
+	background-color: #DEDB7D;
+}
+#kontakt
+{
+	width: 160px;
+	height: 40px;
+	display: block;
+	float: left;
+	border-right: 1px dashed #751b1b;
+	border-left: 1px dashed #751b1b;
+}
+
+#kontakt:hover
+{
+	background-color: #DEDB7D;
+}
+
+a 
+{
+color: #FFFFFF;
+text-decoration: none;
+}
+
+a.tilelink
+{
+	color: #FFFFFF;
+	width: 160px;
+	height: 40px;
+	text-align: center;
+	display: block;
+}
+.foto
+{
+	width:472,5px;
+	height:355px;
+	margin:6mm;
+	float: left;
+	margin-left: 12%;
+}
+.foto1
+{
+	width:472,5px;
+	height:355px;
+	margin:6mm;
+	float: left;
+	margin-left: 12%;
+	
+}
